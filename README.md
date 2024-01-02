@@ -29,14 +29,19 @@
 ### Heart Disease Predictor
 **Overview:** 
 
+<br />
 
 **Tools Used:**
+<br />
+<br />
 <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Pandas" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="Numpy" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+<br />
+<br />
+<br />
 
 **Code Link**: [Colab Link Here](https://colab.research.google.com/drive/1p6BqPoQry-O_WajKBIbXrkAVq_bqtTLj?usp=sharing)
-
 <br />
 
 ### Dissertation: Examining the Alignment of Automated Health Systems with Behavioural Change Theory
