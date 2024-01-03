@@ -26,24 +26,6 @@
 <br />
 
 ## Projects
-### Heart Disease Predictor
-**Overview:** 
-
-<br />
-
-**Tools Used:**
-<br />
-<br />
-<img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Pandas" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="Numpy" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-<br />
-<br />
-<br />
-
-**Code Link**: [Colab Link Here](https://colab.research.google.com/drive/1p6BqPoQry-O_WajKBIbXrkAVq_bqtTLj?usp=sharing)
-<br />
-
 ### Dissertation: Examining the Alignment of Automated Health Systems with Behavioural Change Theory
 **Overview:** 
 
@@ -64,8 +46,51 @@ Sedentary behaviour (SB) and physical activity (PA) among young office workers i
 **Code Link**: [Github Link Here]()
 <br />
 <br />
+### Heart Disease Predictor
+**Overview:** 
+The project ivolved the use of data from The University of California Irvine Heart Disease Dataset. Exploratory Data Analysis was conducted and relevent continuous data was encoded before investigating the distribution of data and normalised accordingly. Training and test datasets were created and implemented with Logistic regression and KNN algorithms. Results indicate that whilst both methods display high accuracy on the dataset, Logistic Regression performs slightly better.
+<br />
 
+**Tools Used:**
+<br />
+<br />
+<img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Pandas" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="Numpy" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+<br />
+<br />
+<br />
 
+**Code Link**: [Colab Link Here](https://colab.research.google.com/drive/1p6BqPoQry-O_WajKBIbXrkAVq_bqtTLj?usp=sharing)
+<br />
+<br />
+<br />
+### Customer Segmentation Model
+**Overview:** 
+Exploratory Data Analysis was conducted on the dataset to investigate any distribution or inclusion bias within the data, with appropriate data encoded to ensure better understanding by the model. Data was then normalised and focus turned to model development. WCSS was used to identify the optimal number of clusters within the dataframe. With visual aid from an elbow plot this was identified to be (n=4). This was fed into the K-Means Model and deployed. Results indicated that:
+  - There appears a definite age split in this data. Young men and women have higher spending scores so the focus should be on attracting these customers.
+
+  - Given the fewest participants are men and they have the highest spending score this should be prioritized.
+
+  - Young women have the second highest spending scores but are already the most frequent visitors to the mall and steps should be taken to encourage this.
+
+  - Older women are the second most frequent visitors to the mall so steps should be taken to target these
+<br />
+
+**Tools Used:**
+<br />
+<br />
+<img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Pandas" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="Numpy" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+<br />
+<br />
+<br />
+
+**Code Link**: [Colab Link Here](https://colab.research.google.com/drive/1kDdyTxAsCOkvfPWGAzbxYLEOg0dORzjF?usp=sharing)
+<br />
+<br />
+<br />
 ## Connect
 ![LinkedIn_logo_initials](https://github.com/stuart-9/stuart-9/assets/148860047/9c62cd7c-2325-4033-91ce-227b279609b1) [LinkedIn](http://www.linkedin.com/in/stuart-gray-2b7321192)
 <br />
